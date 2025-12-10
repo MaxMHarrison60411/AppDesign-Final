@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\harmaxm\\Downloads\\hamcrest-core-1.3.jar",
+        "c:\\Users\\harmaxm\\Downloads\\junit-4.13.2.jar"
+    ]
+}
